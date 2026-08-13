@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "itemz:item/diving_helmet",
-		"1": "itemz:item/diving_helmet2",
-		"particle": "itemz:item/diving_helmet"
+		"0": "horizon:item/diving_helmet",
+		"1": "horizon:item/diving_helmet2",
+		"particle": "horizon:item/diving_helmet"
 	},
 	"elements": [
 		{

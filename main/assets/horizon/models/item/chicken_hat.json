@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "itemz:item/chicken_hat",
-		"1": "itemz:item/chicken_hat2",
-		"particle": "itemz:item/chicken_hat"
+		"0": "horizon:item/chicken_hat",
+		"1": "horizon:item/chicken_hat2",
+		"particle": "horizon:item/chicken_hat"
 	},
 	"elements": [
 		{

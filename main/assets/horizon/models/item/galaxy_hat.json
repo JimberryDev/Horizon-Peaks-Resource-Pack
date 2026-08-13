@@ -6,8 +6,8 @@
     64
   ],
   "textures": {
-    "0": "itemz:item/galaxy_hat",
-    "particle": "itemz:item/galaxy_hat"
+    "0": "horizon:item/galaxy_hat",
+    "particle": "horizon:item/galaxy_hat"
   },
   "elements": [
     {

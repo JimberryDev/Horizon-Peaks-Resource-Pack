@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "itemz:item/flower_crown_hat",
-    "particle": "itemz:item/flower_crown_hat"
+    "0": "horizon:item/flower_crown_hat",
+    "particle": "horizon:item/flower_crown_hat"
   },
   "elements": [
     {

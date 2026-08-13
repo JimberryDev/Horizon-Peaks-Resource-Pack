@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "itemz:item/bumble_bee_hat",
-    "particle": "itemz:item/bumble_bee_hat"
+    "0": "horizon:item/bumble_bee_hat",
+    "particle": "horizon:item/bumble_bee_hat"
   },
   "elements": [
     {

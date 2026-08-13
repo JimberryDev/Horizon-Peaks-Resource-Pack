@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "itemz:item/diving_goggles"
+    "model": "horizon:item/diving_goggles"
   }
 }

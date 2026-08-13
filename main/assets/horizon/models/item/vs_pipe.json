@@ -5,7 +5,7 @@
     32
   ],
   "textures": {
-    "21": "itemz:item/vs_pipe"
+    "21": "horizon:item/vs_pipe"
   },
   "elements": [
     {

@@ -5,8 +5,8 @@
     64
   ],
   "textures": {
-    "0": "itemz:item/ch_shark_hat",
-    "particle": "itemz:item/ch_shark_hat"
+    "0": "horizon:item/ch_shark_hat",
+    "particle": "horizon:item/ch_shark_hat"
   },
   "elements": [
     {

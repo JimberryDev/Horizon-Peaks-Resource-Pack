@@ -5,7 +5,7 @@
     32
   ],
   "textures": {
-    "3": "itemz:item/vs_wanderer_hat"
+    "3": "horizon:item/vs_wanderer_hat"
   },
   "elements": [
     {

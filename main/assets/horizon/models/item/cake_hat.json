@@ -6,9 +6,9 @@
     64
   ],
   "textures": {
-    "2": "itemz:item/cake_hat",
-    "3": "itemz:item/cake_hat_1",
-    "particle": "itemz:item/cake_hat"
+    "2": "horizon:item/cake_hat",
+    "3": "horizon:item/cake_hat_1",
+    "particle": "horizon:item/cake_hat"
   },
   "elements": [
     {

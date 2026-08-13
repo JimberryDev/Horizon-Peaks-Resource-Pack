@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "itemz:item/flower_crown_hat"
+    "model": "horizon:item/flower_crown_hat"
   }
 }

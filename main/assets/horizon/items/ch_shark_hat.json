@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "itemz:item/ch_shark_hat"
+    "model": "horizon:item/ch_shark_hat"
   }
 }

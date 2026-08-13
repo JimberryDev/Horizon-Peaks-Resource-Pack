@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "itemz:item/business_hat"
+    "model": "horizon:item/business_hat"
   }
 }

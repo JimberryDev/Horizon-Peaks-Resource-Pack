@@ -2,9 +2,9 @@
   "credit": "Made with Blockbench",
   "texture_size": [32, 32],
   "textures": {
-    "0": "itemz:item/large_hat",
-    "1": "itemz:item/large_hat2",
-    "particle": "itemz:item/large_hat"
+    "0": "horizon:item/large_hat",
+    "1": "horizon:item/large_hat2",
+    "particle": "horizon:item/large_hat"
   },
   "elements": [
     {

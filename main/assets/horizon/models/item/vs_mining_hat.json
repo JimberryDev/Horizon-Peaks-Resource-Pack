@@ -5,8 +5,8 @@
     32
   ],
   "textures": {
-    "14": "itemz:item/vs_mining_hat",
-    "particle": "itemz:item/vs_mining_hat_1"
+    "14": "horizon:item/vs_mining_hat",
+    "particle": "horizon:item/vs_mining_hat_1"
   },
   "elements": [
     {
