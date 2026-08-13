@@ -17,7 +17,7 @@ jobs:
     steps:
       # Work from the exact repository state being released
       - name: Check out repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # Build every root-level directory that looks like a resource pack
       - name: Build resource packs
