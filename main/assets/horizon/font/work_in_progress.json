@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "horizon:font/work_in_progress.png",
+      "ascent": 80,
+      "height": 80,
+      "chars": [
+        "\uE000"
+      ]
+    }
+  ]
+}
