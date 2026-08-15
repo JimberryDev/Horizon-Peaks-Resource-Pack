@@ -17,20 +17,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out merged PR
-        uses: actions/checkout@v6
+    - name: Check out merged PR
+      uses: actions/checkout@v6
 
-      - name: List files
-        run: find . -maxdepth 3 -type f | sort
+    - name: Check out trusted config
+      uses: actions/checkout@v6
+      with:
+        ref: main
+        path: trusted-main
 
-      - name: Check validator config
-        run: |
-          pwd
-          ls -la .github/config
-          cat .github/config/validator_config.json
-
-      - name: Validate resource pack
-        uses: MrKinau/ResourcePackValidator@v2
-        with:
-          resourcepack: main
-          config: .github/config/validator_config.json
+    - name: Validate resource pack
+      uses: MrKinau/ResourcePackValidator@v2
+      with:
+        resourcepack: main
+        config: trusted-main/.github/config/validator_config.json
