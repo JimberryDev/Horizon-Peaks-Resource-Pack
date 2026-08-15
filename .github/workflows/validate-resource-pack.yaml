@@ -25,6 +25,9 @@ jobs:
       with:
         ref: main
         path: trusted-main
+        
+    - name: List repository tree
+      run: find . -maxdepth 5 -type f | sort
 
     - name: Validate resource pack
       uses: MrKinau/ResourcePackValidator@v2
