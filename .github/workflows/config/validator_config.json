@@ -1,0 +1,7 @@
+{
+  "validators": {
+    "UnusedFileValidator": {
+      "enabled": false
+    }
+  }
+}
