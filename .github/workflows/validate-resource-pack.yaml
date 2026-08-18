@@ -30,4 +30,4 @@ jobs:
       uses: MrKinau/ResourcePackValidator@v2
       with:
         resourcepack: main
-        config: config: trusted-main/.github/workflows/config/validator_config.json
+        config: trusted-main/.github/workflows/config/validator_config.json
