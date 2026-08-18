@@ -3,268 +3,135 @@
         {
             "type": "bitmap",
             "file": "horizon:font/badge_admin.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_mod.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_vip.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_owner.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_builder.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_dev.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_developer.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_helper.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_java.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_patreon.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE009"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_patreon2.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE00A"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_player.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE00B"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_skript.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE00C"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_vipplus.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE00D"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_youtube.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE00E"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_blank_blue.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE00F"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_blank_gray.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE010"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_blank_red.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE011"]
         },
         {
             "type": "bitmap",
             "file": "horizon:font/badge_booster.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 8,
             "chars": ["\uE012"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_admin.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE100"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_mod.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE101"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_vip.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE102"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_owner.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE103"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_builder.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE104"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_dev.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE105"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_developer.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE106"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_helper.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE107"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_java.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE108"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_patreon.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE109"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_patreon2.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE10A"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_player.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE10B"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_skript.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE10C"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_vipplus.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE10D"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_youtube.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE10E"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_blank_blue.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE10F"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_blank_gray.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE110"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_blank_red.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE111"]
-        },
-        {
-            "type": "bitmap",
-            "file": "horizon:font/badge_booster.png",
-            "ascent": 8,
-            "height": 8,
-            "chars": ["\uE112"]
         }
     ]
 }
