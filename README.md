@@ -20,7 +20,7 @@ main/assets/<namespace>/
         └── <texture>.png
 ```
 
-If you use [Blockbench](https://www.blockbench.net/) to make the custom item model, you can export it and it will automatically create the three necesary files.
+If you use [Blockbench](https://www.blockbench.net/) to make the custom item model, you can export it and it will automatically create the necesary files.
 
 ## Getting the items in the server
 
